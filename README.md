@@ -4,17 +4,9 @@
     <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
 </div>
 
-<h3> My social network and more about me: </h3>
-<ul>
-    <li>🔭 I’m currently working on python projects </li>
-    <li>🌱 I’m currently learning machine learning and web development </li>
-    <li>👯 I’m looking to collaborate on web and python projects </li>
-    <li>💬 Ask me about Python and maths </li>
-    
-</ul>
-
 <div align="center">
 <h3> About me: </h3>
+<div align="left">
 <ul>
     <li>🔭 I’m currently working on python projects </li>
     <li>🌱 I’m currently learning machine learning and web development </li>
@@ -22,6 +14,8 @@
     <li>💬 Ask me about Python and technology </li>
     
 </ul>
+</div>
+
 <h3> My Social Networks: </h3>
 <a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" widht="200" alt="linkedin" style="margin-bottom: 10px"/></a>
