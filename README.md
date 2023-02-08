@@ -5,13 +5,13 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" widht="200" alt="linkedin" /></a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" widht="200" alt="linkedin" style="margin-bottom: 5px;"/></a>
 
 <a href="https://www.credly.com/users/jhohan-jancco-chara/badges" target="_blank">
-<img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly" height="40" widht="200"/></a>
+<img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly" height="40" widht="200" style="margin-bottom: 5px;"/></a>
 
 <a href="https://github.com/JhohanJC" target="_blank">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" widht="200" /> </a>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" widht="200" style="margin-bottom: 5px;" /> </a>
 <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
 </div>
 
