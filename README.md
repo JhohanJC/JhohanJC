@@ -5,13 +5,13 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" /></a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" widht="200" alt="linkedin" /></a>
 
 <a href="https://www.credly.com/users/jhohan-jancco-chara/badges" target="_blank">
-<img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly"/></a>
+<img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly" height="40" widht="200"/></a>
 
 <a href="https://github.com/JhohanJC" target="_blank">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt=github style="margin-bottom: 5px;" /> </a>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="40" widht="200" /> </a>
 <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
 </div>
 
@@ -41,11 +41,11 @@
 <div align="center">  
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
 
-<a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://keras.io/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" width="40" height="40"/> </a>
 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt="keras" width="40" height="40"/> </a>
 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/> </a>
 
 </div>
 
