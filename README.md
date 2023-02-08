@@ -50,13 +50,13 @@
 <h4> Machine Learning Frameworks </h4>
 
 <div align="center">  
-<a href="https://www.tensorflow.org" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="tensorflow" height="50"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="tensorflow" widht="35" height="40"/> </a>
 
-<a href="https://keras.io/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" height="50"/> </a>
+<a href="https://keras.io/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" widht="35" height="40"/> </a>
 
-<a href="https://pytorch.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt="keras" height="50"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt="keras" widht="35" height="40"/> </a>
 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" alt="scikit-learn" height="50"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" alt="scikit-learn" widht="35" height="40"/> </a>
 
 </div>
 
