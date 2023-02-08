@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div id="header" align="center">
+    <img src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e4786d791iya4fa7wmgexyz5x3iqn02vuz1sm4oul7h&rid=giphy.gif&ct=g" width="200"/>
+    <h1 align="center"> Hi there 👋, I'm Python Developer </h1>
+    <h3 align="center"> I like programming, and my areas of interest are Back-End Web Development and Machine Learning.</h3>
+</div>
 <!--
 **JhohanJC/JhohanJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
