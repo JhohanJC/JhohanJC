@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="200"/>
+    <img src="image.jpg" width="200"/>
     <h1 align="center"> Hi there 👋, I'm Python Developer </h1>
     <h4 align="center"> I like programming, and my areas of interest are Back-End Web Development and Machine Learning.</h4>
 </div>
