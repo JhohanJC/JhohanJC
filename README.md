@@ -17,7 +17,7 @@
 <div align="center">
 <table>
   <tr>
-    <td colspan="3" align="center"><h4>More about me</h4></td>
+    <td colspan="3" align="center"><strong>More about me</strong></td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
@@ -37,12 +37,12 @@
         <tr>
           <td>
             <table>
-                <tr><th>Programming languages</th></tr>
+                <tr><th><b>Programming languages</b></th></tr>
                 <tr><td><div align="center">
                 <a href="https://www.python.org" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/> </a>
                 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
                 </div></td></tr>
-                <tr><th>Databases</th></tr>
+                <tr><th><b>Databases</th></b></tr>
                 <tr><td><div align="center">
                 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /><a> 
                 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
@@ -52,14 +52,14 @@
           </td>
           <td>
             <table>
-                <tr><th>Machine Learning Frameworks</th></tr>
+                <tr><th><b>Machine Learning Frameworks</b></th></tr>
                 <tr><td><div align="center">  
                 <a href="https://www.tensorflow.org" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="tensorflow" height="40"/> </a>
                 <a href="https://keras.io/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" height="40"/> </a>
                 <a href="https://pytorch.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pytorch.svg" alt="pytorch" widht="40" height="40"/> </a>
                 <a href="https://scikit-learn.org/stable/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scikit-learn.svg" alt="scikit-learn" widht="40" height="40"/> </a>
                 </div></td></tr>
-                <tr><th>Web Development Frameworks</th></tr>
+                <tr><th><b>Web Development Frameworks</b></th></tr>
                 <tr><td><div align="center">  
                 <a href="https://www.djangoproject.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="django" height="50"/> </a>
                 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/></a>
