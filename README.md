@@ -91,5 +91,5 @@
 <hr>
 <p align="center"><strong>My GitHub Stats</strong></p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&show_icons=true&theme=cobalt&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&count_private=true&show_icons=true&theme=dark"/>
 </div>
