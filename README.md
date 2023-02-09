@@ -95,7 +95,7 @@
             <th><strong>My Github Stats</strong></th>
         </tr>
         <tr>
-            <td><div><img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&show_icons=true&theme=dark&count_private=true"/></div></td>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&show_icons=true&theme=dark&count_private=true"/></td>
         </tr>
     </table>
 </div>
