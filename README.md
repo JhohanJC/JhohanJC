@@ -32,7 +32,7 @@
 <div align="center">
 <table>
         <tr>
-          <td colspan="2" align="center"><h4>My Programming Skills</h4></td>
+          <td colspan="2" align="center"><strong>My Programming Skills</strong></td>
         </tr>
         <tr>
           <td>
@@ -72,7 +72,7 @@
     </table> 
     </br>
     <table>
-        <tr><th><h4>More skills</h4></th></tr>
+        <tr><th><strong>More skills</strong></th></tr>
         <tr><td><div align="center">  
         <a href="https://www.w3.org/html/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
         <a href="https://numpy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" widht="40" height="40"/> </a>
