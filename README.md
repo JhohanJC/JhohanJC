@@ -68,26 +68,26 @@
                 </div></td></tr>
             </table>
           </td>
-          <td>
-            <table>
-                <tr><th>More skills</th></tr>
-                <tr><td><div align="center">  
-                <a href="https://www.w3.org/html/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
-                <a href="https://numpy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" height="50"/> </a>
-                <a href="https://matplotlib.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" height="50"/> </a>
-                <a href="https://pandas.pydata.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="pandas" height="50"/> </a>
-                <a href="https://scipy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" alt="scipy" height="50"/> </a>
-                <a href="https://opencv.org/" target="_blank"> <img style="margin: 10px" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="opencv" height="50"/> </a>
-                <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-                <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-                <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-                <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-                </div></td></tr>
-            </table>
-          </td>
         </tr>
-    </table>   
+    </table> 
+    </br>
+    <table>
+        <tr><th>More skills</th></tr>
+        <tr><td><div align="center">  
+        <a href="https://www.w3.org/html/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
+        <a href="https://numpy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" height="50"/> </a>
+        <a href="https://matplotlib.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" height="50"/> </a>
+        <a href="https://pandas.pydata.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="pandas" height="50"/> </a>
+        <a href="https://scipy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" alt="scipy" height="50"/> </a>
+        <a href="https://opencv.org/" target="_blank"> <img style="margin: 10px" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="opencv" height="50"/> </a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+        </div></td></tr>
+    </table>  
 </div>
+
 <div>
 <h3 align="left"> My Programming Skils </h3>
 <div>
