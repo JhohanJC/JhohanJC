@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jhohan</h1>
 <h3 align="center">Python Developer | Back-End Developer </h3>
 <div align="center">
-    <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" href="" alt="giphy" widht="200"/> </p>
+    <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
 </div>
 
 <div align="left">
@@ -52,7 +52,7 @@
           </td>
           <td>
             <table>
-                <tr><th><b>Machine Learning Frameworks</b></th></tr>
+                <tr><th><b>Machine Learning Tools</b></th></tr>
                 <tr><td><div align="center">  
                 <a href="https://www.tensorflow.org" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/tensorflow-tf.svg" alt="tensorflow" height="40"/> </a>
                 <a href="https://keras.io/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" height="40"/> </a>
@@ -72,7 +72,7 @@
     </table> 
     </br>
     <table>
-        <tr><th><strong>More skills</strong></th></tr>
+        <tr><th><strong>More Libraries and Tools</strong></th></tr>
         <tr><td><div align="center">  
         <a href="https://www.w3.org/html/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
         <a href="https://numpy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" widht="40" height="40"/> </a>
@@ -88,3 +88,5 @@
     </table>  
 </div>
 <br/>
+
+### My stats
