@@ -88,9 +88,9 @@
     </table>  
 </div>
 <br/>
-```
+---
 
-### My stats
+### My Github Stats
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&show_icons=true&theme=radical" align="center" />
