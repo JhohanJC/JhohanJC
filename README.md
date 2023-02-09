@@ -29,7 +29,7 @@
   </tr>
 </table>
 </div>
-<div>
+<div align="center">
 <table>
         <tr>
           <td colspan="3">My Programming Skils</td>
