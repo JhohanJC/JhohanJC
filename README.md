@@ -77,7 +77,6 @@
         <tr><td><div align="center">  
         <a href="https://www.w3.org/html/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
         <a href="https://numpy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/numpy.svg" alt="numpy" widht="40" height="40"/> </a>
-        <a href="https://matplotlib.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/matplotlib.svg" alt="matplotlib" widht="40" height="40"/> </a>
         <a href="https://pandas.pydata.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/pandas.svg" alt="pandas" height="50"/> </a>
         <a href="https://scipy.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/scipy.svg" alt="scipy" height="50"/> </a>
         <a href="https://opencv.org/" target="_blank"> <img style="margin: 10px" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" alt="opencv" height="50"/> </a>
