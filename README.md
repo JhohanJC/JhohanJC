@@ -8,9 +8,9 @@
 <h3> About me: </h3>
 <ul>
     <li>🔭 I’m currently working on python projects </li>
-    <li>🌱 I’m currently learning machine learning and web development </li>
+    <li>🌱 I'm learning data science and artificial intelligence </li>
     <li>👯 I’m looking to collaborate on web and AI projects with Python </li>
-    <li>💬 Ask me about Python and technology </li>    
+    <li>💬 Ask me about Python and technology </li> 
 </ul>
 </div>
 
