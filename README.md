@@ -22,7 +22,7 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" alt="linkedin" style="margin-bottom: 10px"/></a></td>
-    <td><a href="https://credly.com/users/jhohan.jc" target="_blank">
+    <td><a href="https://www.credly.com/users/jhohan.jc" target="_blank">
     <img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly" height="50" style="margin-bottom: 10px"/></a></td>
     <td><a href="https://github.com/JhohanJC" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="50" style="margin-bottom: 10px" /> </a></td>
