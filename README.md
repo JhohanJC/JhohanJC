@@ -2,9 +2,7 @@
 <h3 align="center">AI Developer | Electronic Engineer</h3>
 
 <div align="center">
-  <p>
-    <img src="https://media.giphy.com/media/VGC01roisedLNzwyO0/giphy.gif" alt="giphy" width="200"/>
-  </p>
+ <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
 </div>
 
 
