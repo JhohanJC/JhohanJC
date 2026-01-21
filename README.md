@@ -43,39 +43,33 @@
 </div>
 <hr>
 
-<h3 align="center">My Technical Skills</h3>
+<h3 align="center">Core Technical Stack</h3>
 
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+      <strong>Programming</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
     </td>
     <td align="center">
-      <strong>Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+      <strong>Deep Learning</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>Machine Learning</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+      <strong>Reinforcement Learning & Simulation</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
+      <sub>Gymnasium · PyBullet · MuJoCo</sub>
     </td>
     <td align="center">
       <strong>Web Frameworks</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<h3 align="center">Libraries & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,numpy,pandas,opencv,git,aws,linux,docker&theme=dark" />
-</p>
 
 
 <hr>
