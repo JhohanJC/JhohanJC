@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Electronic Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/hi.gif" alt="Hi there!" width="200"/>
+  <img src="https://media.giphy.com/media/njDdMom1cvid6eemUq/giphy.gif" alt="Hi there!" width="200"/>
 </p>
 
 <div align="left">
