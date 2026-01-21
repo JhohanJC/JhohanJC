@@ -43,125 +43,39 @@
 </div>
 <hr>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><strong>My Programming Skills</strong></td>
-  </tr>
-
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td valign="top">
-      <table>
-        <tr><th align="center">Programming Languages</th></tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.python.org" target="_blank">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python"/>
-            </a>
-            <a href="https://www.javascript.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45" alt="JavaScript"/>
-            </a>
-          </td>
-        </tr>
-
-        <tr><th align="center">Databases</th></tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.mysql.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45" alt="MySQL"/>
-            </a>
-            <a href="https://www.mongodb.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45" alt="MongoDB"/>
-            </a>
-            <a href="https://www.postgresql.org/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL"/>
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-
-    <!-- RIGHT COLUMN -->
-    <td valign="top">
-      <table>
-        <tr><th align="center">Machine Learning Tools</th></tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.tensorflow.org" target="_blank">
-              <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg" height="40" alt="TensorFlow"/>
-            </a>
-            <a href="https://keras.io/" target="_blank">
-              <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="40" alt="Keras"/>
-            </a>
-            <a href="https://pytorch.org/" target="_blank">
-              <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" height="40" alt="PyTorch"/>
-            </a>
-            <a href="https://scikit-learn.org/" target="_blank">
-              <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" alt="Scikit-learn"/>
-            </a>
-          </td>
-        </tr>
-
-        <tr><th align="center">Web Frameworks</th></tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.djangoproject.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" height="45" alt="Django"/>
-            </a>
-            <a href="https://flask.palletsprojects.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/flask.png" height="45" alt="Flask"/>
-            </a>
-            <a href="https://getbootstrap.com/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="45" alt="Bootstrap"/>
-            </a>
-            <a href="https://reactjs.org/" target="_blank">
-              <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45" alt="React"/>
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br />
+<h3 align="center">My Technical Skills</h3>
 
 <table align="center">
-  <tr>
-    <th>More Libraries & Tools</th>
-  </tr>
   <tr>
     <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5"/>
-      </a>
-      <a href="https://numpy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg" height="40" alt="NumPy"/>
-      </a>
-      <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" height="45" alt="Pandas"/>
-      </a>
-      <a href="https://scipy.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" height="45" alt="SciPy"/>
-      </a>
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" height="45" alt="OpenCV"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45" alt="Git"/>
-      </a>
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="45" alt="AWS"/>
-      </a>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45" alt="Linux"/>
-      </a>
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="45" alt="Docker"/>
-      </a>
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+    </td>
+    <td align="center">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Machine Learning</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+    </td>
+    <td align="center">
+      <strong>Web Frameworks</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=django,flask,react,bootstrap&theme=dark" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h3 align="center">Libraries & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,numpy,pandas,opencv,git,aws,linux,docker&theme=dark" />
+</p>
 
 
 <hr>
