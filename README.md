@@ -2,8 +2,11 @@
 <h3 align="center">AI Developer | Electronic Engineer</h3>
 
 <div align="center">
-    <p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhsZTBvZWJsMGN4NTVheGc5aWUwc2k3bDNyMnhzODBhMzlkbzBneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGC01roisedLNzwyO0/giphy.gif" alt="giphy" widht="200"/> </p>
+  <p>
+    <img src="https://media.giphy.com/media/VGC01roisedLNzwyO0/giphy.gif" alt="giphy" width="200"/>
+  </p>
 </div>
+
 
 <div align="left">
 <h3> About me: </h3>
