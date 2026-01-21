@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Jhohan</h1>
-<h3 align="center"> AI Developer | Electronic Engineer </h3>
-<div align="center">
-    <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
-</div>
+<h3 align="center">AI Developer | Electronic Engineer</h3>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhsZTBvZWJsMGN4NTVheGc5aWUwc2k3bDNyMnhzODBhMzlkbzBneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGC01roisedLNzwyO0/giphy.gif" alt="Hi there!" width="200"/>
+</p>
 
 <div align="left">
 <h3> About me: </h3>
 <ul>
     <li>🔭 I’m currently working on python projects </li>
     <li>🌱 I'm learning artificial intelligence and reinforcement learning </li>
-    <li>👯 I’m looking to collaborate on web and AI projects with Python </li>
+    <li>👯 Currently exploring AI research, robotics, control systems, and signal & image processing </li>
     <li>💬 Ask me about Python and technology </li> 
 </ul>
 </div>
