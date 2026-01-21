@@ -48,8 +48,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Programming</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+      <strong>Programming & Scientific Computing</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib&theme=dark" /><br/>
+      <sub>Pygame · Scientific Python Stack</sub>
     </td>
     <td align="center">
       <strong>Deep Learning</strong><br/><br/>
@@ -69,8 +70,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <hr>
 <p align="center"><strong>My GitHub Stats</strong></p>
