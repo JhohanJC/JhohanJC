@@ -47,13 +47,8 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <strong>Programming & Scientific Computing</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib&theme=dark" /><br/>
-      <sub>Pygame · Scientific Python Stack</sub>
-    </td>
-    <td align="center">
-      <strong>Deep Learning</strong><br/><br/>
+    <td align="center" colspan="2">
+      <strong>Machine Learning & Deep Learning</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
     </td>
   </tr>
@@ -70,6 +65,7 @@
     </td>
   </tr>
 </table>
+
 
 <hr>
 <p align="center"><strong>My GitHub Stats</strong></p>
