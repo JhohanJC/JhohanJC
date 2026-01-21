@@ -15,22 +15,33 @@
 </div>
 
 <div align="center">
-<table>
-  <tr>
-    <td colspan="3" align="center"><strong>More about me</strong></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" alt="linkedin" style="margin-bottom: 10px"/></a></td>
-    <td><a href="https://www.credly.com/users/jhohan.jc" target="_blank">
-    <img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg" alt="credly" height="50" style="margin-bottom: 10px"/></a></td>
-    <td><a href="https://github.com/JhohanJC" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="50" style="margin-bottom: 10px" /> </a></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td colspan="3" align="center"><strong>More about me</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+               height="50" alt="linkedin" style="margin-bottom: 10px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.credly.com/users/jhohan.jc" target="_blank">
+          <img src="https://info.credly.com/hubfs/Credly%20Atos%20Web%20Assets/Credly%20Logos/Credly_Pearson_Logo_Orange.svg"
+               height="50" alt="credly" style="margin-bottom: 10px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JhohanJC" target="_blank">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+               alt="github" height="50" style="margin-bottom: 10px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 <hr>
-<div align="center">
 <table>
         <tr>
           <td colspan="2" align="center"><strong>My Programming Skills</strong></td>
