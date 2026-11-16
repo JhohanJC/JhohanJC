@@ -75,11 +75,15 @@
   </tr>
 </table>
 
+
 <hr>
+
 <p align="center">
   <strong>My GitHub Stats</strong>
 </p>
+
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
+
 
