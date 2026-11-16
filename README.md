@@ -76,7 +76,10 @@
 </table>
 
 <hr>
-<p align="center"><strong>My GitHub Stats</strong></p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JhohanJC&count_private=true&show_icons=true&theme=dark"/>
-</div>
+<p align="center">
+  <strong>My GitHub Stats</strong>
+</p>
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
+
