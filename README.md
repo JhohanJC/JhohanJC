@@ -25,7 +25,6 @@
   <li>Markov Decision Processes</li>
   <li>Stochastic Processes and Dynamic Programming</li>
   <li>Optimization and Intelligent Control</li>
-  <li>Digital Signal Processing</li>
 </ul>
 
 <h2>Computational Tools</h2>
