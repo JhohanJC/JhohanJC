@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jhohan</h1>
-<h3 align="center">AI Developer | Electronic Engineer</h3>
+<h3 align="center">Reinforcement Learning Reasearcher | Electronic Engineer</h3>
 
 <div align="center">
  <p> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="giphy" widht="200"/> </p>
@@ -10,8 +10,8 @@
 <h3> About me: </h3>
 <ul>
     <li>🔭 I’m currently working on python projects </li>
-    <li>🌱 I'm learning artificial intelligence and reinforcement learning </li>
-    <li>👯 Currently exploring AI research, robotics, control systems, and signal & image processing </li>
+    <li>🌱 I'm learning Reinforcement Learning </li>
+    <li>👯 Currently exploring Reinforcement Learning and signal processing </li>
     <li>💬 Ask me about Python and technology </li> 
 </ul>
 </div>
@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/jhohan-jc17/" target="_blank">
+        <a href="https://www.linkedin.com/in/jhohanjc/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
                height="50" alt="linkedin" style="margin-bottom: 10px"/>
         </a>
