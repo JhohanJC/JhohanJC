@@ -27,16 +27,6 @@
   <li>Optimization and Intelligent Control</li>
 </ul>
 
-<h2>Mathematical Foundations</h2>
-
-<ul>
-  <li>Probability Theory</li>
-  <li>Stochastic Processes</li>
-  <li>Linear Algebra</li>
-  <li>Mathematical Optimization</li>
-  <li>Dynamic Programming</li>
-</ul>
-
 <h2>Computational Tools</h2>
 
 <p align="left">
