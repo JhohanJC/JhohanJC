@@ -1,6 +1,4 @@
-
-
-<h1 align="center">Jhohan JC</h1>
+<h1 align="center">Jhohan Jancco Chara</h1>
 
 <h3 align="center">
   Reinforcement Learning Researcher | Electronic Engineer
@@ -17,15 +15,6 @@
 </p>
 
 <hr>
-
-<h2>Research Profile</h2>
-
-<p>
-  I am an Electronic Engineer currently studying
-  Reinforcement Learning, with particular interest in its
-  mathematical foundations, theoretical aspects, and
-  algorithmic development.
-</p>
 
 <h2>Research Interests</h2>
 
