@@ -45,29 +45,35 @@
 </div>
 <hr>
 
-<h3 align="center">Core Technical Stack</h3>
+
+<h3 align="center">Research Focus & Tools</h3>
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
-      <strong>Machine Learning & Deep Learning</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+    <td align="center" width="50%">
+      <strong>Research Interests</strong><br/><br/>
+      Reinforcement Learning<br/>
+      Deep Reinforcement Learning<br/>
+      Machine Learning<br/>
+      Intelligent Control
+    </td>
+    <td align="center" width="50%">
+      <strong>Mathematical Foundations</strong><br/><br/>
+      Markov Decision Processes<br/>
+      Probability & Stochastic Processes<br/>
+      Dynamic Programming<br/>
+      Optimization
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <strong>Reinforcement Learning & Simulation</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" /><br/>
-      <sub>Gymnasium · PyBullet · MuJoCo</sub>
-    </td>
-    <td align="center">
-      <strong>Web Frameworks</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=django,flask&theme=dark" />
+    <td align="center" colspan="2">
+      <strong>Computational Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch"/><br/><br/>
+      <sub>Simulation: Gymnasium · PyBullet · MuJoCo</sub>
     </td>
   </tr>
 </table>
-
 
 <hr>
 <p align="center"><strong>My GitHub Stats</strong></p>
