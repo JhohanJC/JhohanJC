@@ -26,9 +26,10 @@
   <li>Inverse Reinforcement Learning</li>
   <li>Online Reinforcement Learning</li>
   <li>Offline Reinforcement Learning</li>
-  <li>Reinforcement Learning Applications</li>
+  <li>Applications of Reinforcement Learning</li>
+  <li>Intelligent Control</li>
+  <li>Machine Learning</li>
 </ul>
-
 <h2>Computational Tools</h2>
 
 <p align="left">
