@@ -22,7 +22,7 @@
   <li>Markov Decision Processes</li>
   <li>Deep Reinforcement Learning</li> 
   <li>Model-Based Reinforcement Learning</li>
-  <li>Inverse Reinforcement Learning/li>
+  <li>Inverse Reinforcement Learning</li>
   <li>Online and Offline Reinforcement Learning</li>
   <li>Model-Based and Model-Free Reinforcement Learning</li>
   <li>Reinforcement Learning Applications</li>
