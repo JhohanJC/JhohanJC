@@ -1,7 +1,7 @@
 <h1 align="center">Jhohan Jancco Chara</h1>
 
 <h3 align="center">
-  Reinforcement Learning Researcher | Electronic Engineer
+  Reinforcement Learning Research Engineer | Electronic Engineer
 </h3>
 
 <p align="center">
@@ -19,12 +19,13 @@
 <h2>Research Interests</h2>
 
 <ul>
-  <li>Reinforcement Learning</li>
-  <li>Deep Reinforcement Learning</li>
-  <li>Model-Based Reinforcement Learning</li>
   <li>Markov Decision Processes</li>
-  <li>Stochastic Processes and Dynamic Programming</li>
-  <li>Optimization and Intelligent Control</li>
+  <li>Deep Reinforcement Learning</li> 
+  <li>Model-Based Reinforcement Learning</li>
+  <li>Inverse Reinforcement Learning/li>
+  <li>Online and Offline Reinforcement Learning</li>
+  <li>Model-Based and Model-Free Reinforcement Learning</li>
+  <li>Reinforcement Learning Applications</li>
 </ul>
 
 <h2>Computational Tools</h2>
